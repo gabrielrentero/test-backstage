@@ -3,6 +3,11 @@ kind: Component
 metadata:
   name: test-backstage
   description: Test back
+  annotations:
+    github.com/project-slug: https://github.com/gabrielrentero/test-backstage
+    backstage.io/source-ref: https://github.com/gabrielrentero/test-backstage
+    backstage.io/techdocs-ref: https://github.com/gabrielrentero/test-backstage
+
   tags:
     - java
     - data
