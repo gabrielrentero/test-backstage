@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-backstage
+  name: new-test-backstage
   description: Test back
   annotations:
     github.com/project-slug: https://github.com/gabrielrentero/test-backstage
